@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "704035440505",
+    "project_id": "neat-simplicity-387813",
+    "storage_bucket": "neat-simplicity-387813.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704035440505:android:c7361ca52f1205a85ed1a8",
+        "android_client_info": {
+          "package_name": "com.example.covidtracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704035440505-nm98opbl33pg1ujduvqo2b264avqkql5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.covidtracker",
+            "certificate_hash": "32973d830c451be824fb486bfcab764566becd4e"
+          }
+        },
+        {
+          "client_id": "704035440505-t8rt2n64tru9j8jvr02ter6eb06s6st0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8wNBkmVc8xS4Q19PaKYQ9re211EuznfY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704035440505-t8rt2n64tru9j8jvr02ter6eb06s6st0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_covid"
+        android:icon="@drawable/baseline_home_24"
+        android:title="COVID" />
+    <item
+        android:id="@+id/menu_map"
+        android:icon="@drawable/baseline_map_24"
+        android:title="Map" />
+    <item
+        android:id="@+id/menu_camera"
+        android:icon="@drawable/baseline_photo_camera_24"
+        android:title="Camera" />
+    <item
+        android:id="@+id/menu_video"
+        android:icon="@drawable/baseline_ondemand_video_24"
+        android:title="Video" />
+</menu>
